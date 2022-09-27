@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JOJO
+- 👋 Hi, I’m @Jojo
 - 👀 I’m interested in everything tech.
 - 🌱 I’m currently learning how to software develop excited for the journey ahead.
 
